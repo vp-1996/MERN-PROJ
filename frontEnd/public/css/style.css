@@ -1,0 +1,248 @@
+/* .form-div label {
+    font-family: 'Instrument Serif', serif;
+    font-weight: 600;
+    letter-spacing: 1pt;
+}
+
+.mainDiv {
+    margin-top: 10%;
+}
+
+.input-icon {
+    height: 20px;
+    position: relative;
+    left: 223px;
+    bottom: 0px;
+} */
+
+.spinner{
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* margin-left: 50%;
+    margin-top: 20%; */
+}
+
+
+.none {
+    /* display: none; */
+    /* position: rel; */
+}
+
+.block {
+    /* display: block; */
+}
+
+.ImageUpload-btn {
+    /* height: 30px;
+    margin-left:auto; */
+    /* border-style: ridge;
+    background-color: #ed6d92; */
+}
+
+/* .ImageUpdate-btn{
+     margin-left: 15%;
+     border-style: ridge;
+     border-radius: 7px;
+     background-color: #ed6d92;
+     font-weight: 500
+} */
+
+/* .addAssetNav{
+    margin-left: -10px;
+} */
+
+/* .navlink {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 13px;
+    opacity: 60%;
+    margin-left: 30px;
+}
+
+.navlink:hover {
+    color: rgb(176, 176, 171);
+    font-weight: bolder;
+} */
+
+.activeClass {
+    /* color: whitesmoke;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 13px;
+    opacity: 100%;
+    margin-left: 30px; */
+    /* margin-left: 10px; */
+    /* border: 4px solid rgb(208, 142, 20);
+    border-style: ridge;
+    border-radius: 10px; */
+}
+
+/* .activeClass:hover {
+    color: rgb(145, 238, 238);
+} */
+
+/* .dd-btn{
+    background-color: black;
+    height: 30px;
+    color: blue;
+    border: none;
+} */
+
+/* .ip1{
+    background-color:red;
+    width:55%;
+    margin-left:25.4%;
+    font-family:'Roboto Mono', monospace;
+    letter-spacing:1px
+} */
+
+/* table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table th {
+    border-style: ridge;
+}
+
+.asset-img {
+    height: 30%;
+    width: 50%;
+    border-radius: 20px;
+}
+
+.asset-img-td {
+    width: 30%;
+    text-align: center;
+}
+
+.p {
+    height: 70%;
+}
+
+.table-bordered {
+    width: 62%;
+    border-color: #DFE0E2;
+    margin-top: 2%;
+}
+
+.table-bordered td {
+    text-align: center;
+}
+
+.table-bordered thead {
+    background-color: #E5E5E3;
+    color: #808B75;
+    font-weight: 500;
+    text-align: center;
+} */
+
+.actions-td {
+    /* width: 40%;
+    background-color: #efefef; */
+    /* justify-content: space-between; */
+}
+
+/* .edit-btn {
+    background-color: #f3b678;
+    border: none;
+    border-radius: 12%;
+    width: 36%;
+    color: whitesmoke;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.delete-btn {
+    background-color: #f58383;
+    border: none;
+    border-radius: 12%;
+    width: 49%;
+    margin-left: 4%;
+    color: whitesmoke;
+    font-weight: 600;
+}
+
+.delete-btn:hover {
+    background-color: #f8a8a8
+}
+
+.edit-btn:hover {
+    background-color: #f2be89;
+}
+
+.edit-btn2{
+    color: white;
+    text-decoration: none;
+}
+
+.edit-btn2:hover {
+    color: white;
+} */
+
+/* #top{
+    background-color: green;
+    height: 52px;
+} */
+
+/* .nameData{
+    font-family: 'Roboto Condensed', sans-serif;
+} */
+
+.searchBar{
+    /* background-color: #D3D3D3;
+    border-radius:20px;
+    margin-left: 70%;
+    font-family:'Roboto Mono', monospace;
+    box-shadow:2px 2px 3px grey;
+    border:none;
+    width: 15%; */
+    /* position: relative; */
+   }
+
+  /* .TableCell{
+    font-family:'Nunito', sans-serif;
+    background-color:#E3D9D9
+  } 
+    
+.searchImg{
+    position:absolute;
+    left:1049px;
+    z-index: 500
+} */
+
+  /* .TC1{
+    margin-top:3%;
+    width:75%;
+    margin-left: auto;
+    margin-right:auto;
+    box-shadow: 0px 2px 2px 5px grey
+  } */
+
+  @media screen and (min-width: 450px) and (max-width: 1183px){
+    .searchBar{
+           margin-left: 55%;
+           width: 30%;
+    }
+
+  
+    /* .searchIcon{
+        left: 620px;
+    } */
+  }
+
+  /* .tt:hover{
+    background-color: red;
+  } */
+
+/* .ToastBody{
+    background-color:#7C943A;
+    color:white;
+    opacity:40;
+    font-family: 'Belanosima',sans-serif;
+    letter-spacing: 1px
+} */
+
+
